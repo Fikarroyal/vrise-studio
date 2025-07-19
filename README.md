@@ -1,4 +1,4 @@
-# Vr!se Studio – Creative Service Platform
+# Vrise Studio – Creative Service Platform
 
 This repository contains the source code for **Vr!se Studio**, a professional service platform offering videography, photography, video editing, and graphic design. The project is developed using HTML, CSS, and JavaScript, with a focus on responsiveness, performance, and modern aesthetics.
 
